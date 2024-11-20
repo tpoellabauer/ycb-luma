@@ -1,0 +1,53 @@
+idx;name;variations;different;rigid;brightness_threshold
+9;Chips Can;1;FALSE;TRUE;10
+13;Strawberry;1;FALSE;TRUE;10
+14;Apple;1;FALSE;TRUE;10
+15;Lemon;1;FALSE;TRUE;10
+16;Peach;1;FALSE;TRUE;10
+17;Pear;1;FALSE;TRUE;10
+18;Orange;1;FALSE;TRUE;10
+19;Plum;1;FALSE;TRUE;10
+21;Sponge;1;FALSE;TRUE;10
+24;Plate;1;FALSE;TRUE;10
+26;Fork;1;FALSE;TRUE;12
+27;Spoon;1;FALSE;TRUE;10
+28;Knife;1;FALSE;TRUE;8
+29;Slotted Turner;1;TRUE;TRUE;10
+30;Wine Glass;1;FALSE;TRUE;10
+32;Skillet;1;TRUE;TRUE;10
+33;Skillet Lid;1;TRUE;TRUE;10
+36;S Erasable Marker;1;FALSE;TRUE;8
+38;Keys;1;TRUE;TRUE;10
+39;Padlock;1;TRUE;TRUE;10
+40;Hammer;1;TRUE;TRUE;10
+41;Nails;2;FALSE;TRUE;5
+42;Phillips Screwdriver;1;TRUE;TRUE;6
+43;Flat Screwdriver;1;TRUE;TRUE;6
+44;Adjustable Wrench;1;TRUE;TRUE;6
+48;XS Clamp;1;FALSE;TRUE;10
+49;S Clamp;1;FALSE;TRUE;10
+54;Credit Card Blank;1;FALSE;TRUE;10
+55;Soft Ball;1;FALSE;TRUE;10
+56;Tennis Ball;1;FALSE;TRUE;10
+57;RacquetBall;1;FALSE;TRUE;10
+58;Golf Ball;1;FALSE;TRUE;10
+59;S Marble;3;FALSE;TRUE;5
+60;M Marble;1;FALSE;TRUE;5
+61;L Marble;2;FALSE;TRUE;5
+62;XL Marble;2;FALSE;TRUE;10
+63;Cups;1;FALSE;TRUE;10
+65;Dice;1;FALSE;TRUE;10
+67;Rope;1;FALSE;FALSE;10
+68;Chain;1;FALSE;FALSE;10
+69;Clear Box;1;FALSE;TRUE;10
+71;Colored Wood Blocks;6;FALSE;TRUE;10
+72;9-Peg-Hole Test;1;TRUE;TRUE;8
+73;Toy Airplane;1;TRUE;TRUE;10
+74;Plastic Bolt;1;FALSE;TRUE;7
+75;Plastic Nut;1;FALSE;TRUE;7
+76;Metal Screw;1;FALSE;TRUE;7
+77;Soccer Ball;1;FALSE;TRUE;8
+78;Baseball;1;FALSE;TRUE;10
+79;Washer Assortment;7;FALSE;TRUE;12
+80;Lego Pieces;10;FALSE;TRUE;10
+81;Speed Cube;1;FALSE;TRUE;10
