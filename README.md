@@ -138,5 +138,21 @@ If you find our work useful, please consider citing our work
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2411.13149}, 
 }
+@inproceedings{pöllabauer2024fast,
+      title={Fast Training Data Acquisition for Object Detection and Segmentation using Black Screen Luminance Keying}, 
+      author={\textbf{Thomas P{\"o}llabauer} and Knauthe, Volker and Boller, André and Kuijper, Arjan and  Fellner, Dieter},
+      booktitle={Journal of WSCG},
+      volume={32},
+      number={1-2},
+      pages={101-110},
+      year={2024},
+}
+@inproceedings{poellabauer2024LUMA++,
+  title={Advanced Post-Processing for Object Detection Dataset Generation}, 
+  author={\textbf{Thomas P{\"o}llabauer} and Berkei, Sarah and Knauthe, Volker and Kuijper, Arjan},
+  series={Lecture Notes in Computer Science},
+  booktitle={Proceedings of the 19th International Symposium on Visual Computing (ISCV24)},
+  year={2024}
+}
 ```
 				
