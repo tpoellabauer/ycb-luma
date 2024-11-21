@@ -125,4 +125,18 @@ directory	  vid_id	from	to
 27_spoon	  1	      0	    231
 
 This entry will remove masks from object "27_spoon" with filename "1_frame_0.PNG" to "1_frame_231.PNG" (and also the files between them, 1_frame_3.PNG, 1_frame_6.PNG etc)
+
+
+If you find our work useful, please consider citing our work
+```
+@misc{pöllabauer2024ycblumaycbobjectdataset,
+      title={YCB-LUMA: YCB Object Dataset with Luminance Keying for Object Localization}, 
+      author={Thomas Pöllabauer},
+      year={2024},
+      eprint={2411.13149},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2411.13149}, 
+}
+```
 				
